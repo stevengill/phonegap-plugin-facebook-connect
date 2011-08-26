@@ -1,0 +1,9 @@
+[submodule "lib/iosFBSDK"]
+	path = lib/iosFBSDK
+	url = https://github.com/facebook/facebook-ios-sdk.git
+[submodule "lib/androidFBSDK"]
+	path = lib/androidFBSDK
+	url = https://github.com/facebook/facebook-android-sdk.git
+[submodule "lib/jsFBSDK"]
+	path = lib/jsFBSDK
+	url = https://github.com/facebook/connect-js.git
